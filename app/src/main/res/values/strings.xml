@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">THSensorAyncTask</string>
+    <string name="header">TH Sensor Diver</string>
+    <string name="temperature">Temperature(F):</string>
+    <string name="humidity">Humidity:</string>
+    <string name="activity">Activity:</string>
+    <string name="sensorreadings">No of Sensor readings:</string>
+    <string name="generateButton">Generate</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="defaultTemp">90</string>
+    <string name="defaultHumidity">60</string>
+    <string name="defaultactivity">231</string>
+    <string name="defaultSensorReadings">5</string>
+    <string name="defaultval"></string>
+
+</resources>
